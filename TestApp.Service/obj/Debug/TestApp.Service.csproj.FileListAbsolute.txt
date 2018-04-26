@@ -1,0 +1,37 @@
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Service\obj\Debug\TestApp.Service.csprojResolveAssemblyReference.cache
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Service\bin\Debug\TestApp.Service.dll.config
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Service\bin\Debug\TestApp.Service.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Service\bin\Debug\TestApp.Service.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Service\bin\Debug\TestApp.Contract.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Service\bin\Debug\TestApp.DataAccess.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Service\bin\Debug\System.Data.SQLite.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Service\bin\Debug\TestApp.Contract.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Service\bin\Debug\TestApp.DataAccess.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Service\bin\Debug\System.Data.SQLite.xml
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Service\obj\Debug\TestApp.Service.csprojResolveAssemblyReference.cache
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Service\obj\Debug\TestApp.Service.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Service\obj\Debug\TestApp.Service.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Service\bin\Debug\TestApp.Service.dll.config
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Service\bin\Debug\TestApp.Service.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Service\bin\Debug\TestApp.Service.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Service\bin\Debug\TestApp.Contract.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Service\bin\Debug\TestApp.DataAccess.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Service\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Service\bin\Debug\TestApp.Contract.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Service\bin\Debug\TestApp.DataAccess.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Service\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Service\obj\Debug\TestApp.Service.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Service\obj\Debug\TestApp.Service.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Service\obj\Debug\TestApp.Service.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Service\bin\Debug\TestApp.Service.dll.config
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Service\bin\Debug\TestApp.Service.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Service\bin\Debug\TestApp.Service.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Service\bin\Debug\TestApp.Contract.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Service\bin\Debug\TestApp.DataAccess.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Service\bin\Debug\System.Data.SQLite.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Service\bin\Debug\TestApp.Contract.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Service\bin\Debug\TestApp.DataAccess.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Service\bin\Debug\System.Data.SQLite.xml
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Service\obj\Debug\TestApp.Service.csprojResolveAssemblyReference.cache
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Service\obj\Debug\TestApp.Service.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Service\obj\Debug\TestApp.Service.pdb

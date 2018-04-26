@@ -1,0 +1,17 @@
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Contract\bin\Debug\TestApp.Contract.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Contract\bin\Debug\TestApp.Contract.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Contract\obj\Debug\TestApp.Contract.csprojResolveAssemblyReference.cache
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Contract\obj\Debug\TestApp.Contract.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Contract\obj\Debug\TestApp.Contract.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Contract\bin\Debug\TestApp.Contract.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Contract\bin\Debug\TestApp.Contract.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Contract\obj\Debug\TestApp.Contract.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Contract\obj\Debug\TestApp.Contract.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Contract\bin\Debug\TestApp.Contract.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Contract\bin\Debug\TestApp.Contract.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Contract\obj\Debug\TestApp.Contract.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Contract\obj\Debug\TestApp.Contract.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Contract\bin\Debug\TestApp.Contract.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Contract\bin\Debug\TestApp.Contract.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Contract\obj\Debug\TestApp.Contract.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Contract\obj\Debug\TestApp.Contract.pdb

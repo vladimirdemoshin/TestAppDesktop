@@ -1,0 +1,39 @@
+﻿<Window x:Class="TestApp.Client.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Admin" Height="500" Width="800">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" x:Name="TransactionStack" VerticalAlignment="Top" Orientation="Vertical">
+
+            <ListView x:Name="ItemsListView" Height="420">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=ItemID}" Width="100">ItemID</GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=Description}" Width="200">Description</GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=Price}" Width="100">Price</GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+            <Button x:Name="BtnShowItems" Click="BtnShowItemsClick" Content="Refresh Database Items ListView"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1">
+            <TextBox x:Name="TxtBoxItemID"  Margin="50,20,50,0" GotFocus="TxtBoxItemID_GotFocus">Insert ItemID</TextBox>
+            <TextBox x:Name="TxtBoxDescription" Margin="50,0,50,0" GotFocus="TxtBoxDescription_GotFocus">Insert Description</TextBox>
+            <TextBox x:Name="TxtBoxPrice"  Margin="50,0,50,0" GotFocus="TxtBoxPrice_GotFocus">Insert Price</TextBox>
+
+            <Button x:Name="BtnAddItem"  Margin="50,0,50,20" Click="BtnAddItemClick">Add Item in Database</Button>
+            <Button x:Name="BtnRemoveSelectedItem" Margin="50,0,50,20" Click="BtnRemoveSelectedItemClick">Remove Selected Item From Database</Button>
+        </StackPanel>
+
+    </Grid>
+
+</Window>

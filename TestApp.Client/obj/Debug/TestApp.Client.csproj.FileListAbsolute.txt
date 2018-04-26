@@ -1,0 +1,70 @@
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp.Client\TestApp.Client\bin\Debug\TestApp.Client.exe.config
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp.Client\TestApp.Client\bin\Debug\TestApp.Client.exe
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp.Client\TestApp.Client\bin\Debug\TestApp.Client.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp.Client\TestApp.Client\obj\Debug\TestApp.Client.csprojResolveAssemblyReference.cache
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp.Client\TestApp.Client\obj\Debug\MainWindow.baml
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp.Client\TestApp.Client\obj\Debug\MainWindow.g.cs
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp.Client\TestApp.Client\obj\Debug\App.g.cs
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp.Client\TestApp.Client\obj\Debug\TestApp.Client_MarkupCompile.cache
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp.Client\TestApp.Client\obj\Debug\TestApp.Client.g.resources
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp.Client\TestApp.Client\obj\Debug\TestApp.Client.Properties.Resources.resources
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp.Client\TestApp.Client\obj\Debug\TestApp.Client.csproj.GenerateResource.Cache
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp.Client\TestApp.Client\obj\Debug\TestApp.Client.exe
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp.Client\TestApp.Client\obj\Debug\TestApp.Client.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\bin\Debug\TestApp.Client.exe.config
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\bin\Debug\TestApp.Client.exe
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\bin\Debug\TestApp.Client.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\bin\Debug\TestApp.Contract.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\bin\Debug\TestApp.Manager.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\bin\Debug\TestApp.Contract.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\bin\Debug\TestApp.Manager.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\obj\Debug\TestApp.Client.csprojResolveAssemblyReference.cache
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\obj\Debug\Admin.baml
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\obj\Debug\MainWindow.baml
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\obj\Debug\Admin.g.cs
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\obj\Debug\MainWindow.g.cs
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\obj\Debug\App.g.cs
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\obj\Debug\TestApp.Client_MarkupCompile.cache
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\obj\Debug\TestApp.Client.g.resources
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\obj\Debug\TestApp.Client.Properties.Resources.resources
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\obj\Debug\TestApp.Client.csproj.GenerateResource.Cache
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\obj\Debug\TestApp.Client.exe
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.Client\obj\Debug\TestApp.Client.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\bin\Debug\TestApp.Client.exe.config
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\bin\Debug\TestApp.Client.exe
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\bin\Debug\TestApp.Client.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\bin\Debug\TestApp.Contract.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\bin\Debug\TestApp.Manager.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\bin\Debug\TestApp.Contract.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\bin\Debug\TestApp.Manager.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\obj\Debug\TestApp.Client.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\obj\Debug\Admin.baml
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\obj\Debug\MainWindow.baml
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\obj\Debug\Admin.g.cs
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\obj\Debug\MainWindow.g.cs
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\obj\Debug\App.g.cs
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\obj\Debug\TestApp.Client_MarkupCompile.cache
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\obj\Debug\TestApp.Client.g.resources
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\obj\Debug\TestApp.Client.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\obj\Debug\TestApp.Client.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\obj\Debug\TestApp.Client.exe
+C:\Users\Vladimir\Desktop\TestApp\TestApp.Client\obj\Debug\TestApp.Client.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\bin\Debug\TestApp.Client.exe.config
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\obj\Debug\TestApp.Client.exe
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\obj\Debug\TestApp.Client.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\bin\Debug\TestApp.Client.exe
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\bin\Debug\TestApp.Client.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\bin\Debug\TestApp.Contract.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\bin\Debug\TestApp.Manager.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\bin\Debug\TestApp.Contract.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\bin\Debug\TestApp.Manager.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\obj\Debug\TestApp.Client.csprojResolveAssemblyReference.cache
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\obj\Debug\Admin.baml
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\obj\Debug\MainWindow.baml
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\obj\Debug\Admin.g.cs
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\obj\Debug\MainWindow.g.cs
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\obj\Debug\App.g.cs
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\obj\Debug\TestApp.Client_MarkupCompile.cache
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\obj\Debug\TestApp.Client.g.resources
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\obj\Debug\TestApp.Client.Properties.Resources.resources
+C:\Users\zzadmin\Downloads\TestApp\TestApp.Client\obj\Debug\TestApp.Client.csproj.GenerateResource.Cache

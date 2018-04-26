@@ -1,0 +1,64 @@
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\bin\Debug\TestApp.DataAccess.dll.config
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\bin\Debug\TestApp.DataAccess.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\bin\Debug\TestApp.DataAccess.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\bin\Debug\EntityFramework.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\bin\Debug\System.Data.SQLite.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\bin\Debug\TestApp.Contract.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\bin\Debug\TestApp.Contract.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\bin\Debug\EntityFramework.xml
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\bin\Debug\System.Data.SQLite.xml
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\obj\Debug\TestApp.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\obj\Debug\TestApp.DataAccess.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess.Items.Repository\obj\Debug\TestApp.DataAccess.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\bin\Debug\TestApp.DataAccess.dll.config
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\bin\Debug\TestApp.DataAccess.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\bin\Debug\TestApp.DataAccess.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\bin\Debug\System.Data.SQLite.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\bin\Debug\TestApp.Contract.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\bin\Debug\TestApp.Contract.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\bin\Debug\System.Data.SQLite.xml
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\obj\Debug\TestApp.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\obj\Debug\TestApp.DataAccess.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.DataAccess\obj\Debug\TestApp.DataAccess.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\bin\Debug\TestApp.DataAccess.dll.config
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\bin\Debug\TestApp.DataAccess.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\bin\Debug\TestApp.DataAccess.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\bin\Debug\TestApp.Contract.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\bin\Debug\TestApp.Contract.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\obj\Debug\TestApp.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\obj\Debug\TestApp.DataAccess.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.DataAccess\obj\Debug\TestApp.DataAccess.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\bin\Debug\TestApp.DataAccess.dll.config
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\bin\Debug\TestApp.DataAccess.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\bin\Debug\TestApp.DataAccess.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\bin\Debug\System.Data.SQLite.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\bin\Debug\TestApp.Contract.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\bin\Debug\TestApp.Contract.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\bin\Debug\System.Data.SQLite.xml
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\obj\Debug\TestApp.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\obj\Debug\TestApp.DataAccess.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.DataAccess\obj\Debug\TestApp.DataAccess.pdb

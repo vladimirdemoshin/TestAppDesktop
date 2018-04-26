@@ -1,0 +1,43 @@
+﻿<Window x:Class="TestApp.Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="POS" Height="500" Width="800">
+
+    <Grid Height="469" VerticalAlignment="Top">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" x:Name="TransactionStack" Orientation="Vertical" Margin="0,0,0,29">
+
+            <ListView x:Name="BasketItemsListView" Height="420">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=ItemID}" Width="100">ItemID</GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=Description}" Width="200">Description</GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=Price}" Width="100">Price</GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+            <StackPanel x:Name="TransactionBtnStackPanel">
+                <Button x:Name="BtnTransaction" Click="BtnTransactionClick" Content="Buy Items In Basket"/>
+            </StackPanel>
+
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Margin="5,0,-5,0">
+
+            <TextBox x:Name="TxtBoxItemID" Margin="50,20,50,0" GotFocus="TxtBoxItemID_GotFocus" Text="Insert ItemID here" ></TextBox>
+            <Button x:Name="BtnAddItem"  Click="BtnAddItemClick" Margin="50,0,50,0" Content="Add Item In Basket"/>
+            <Button x:Name="BtnRefreshBasketListView"  Margin="50,20,50,0" Click="BtnRefreshBasketListViewClick">Refresh Basket List View</Button>
+            <Button x:Name="BtnRemoveSelectedItem" Margin="50,20,50,0" Click="BtnRemoveSelectedItemClick">Remove selected item from basket</Button>
+            <Button x:Name="BtnOpenAdminForm" Click="BtnOpenAdminFormClick" Background="Azure"  Margin="50,20,50,20">Open Admin Form</Button>
+
+        </StackPanel>
+
+    </Grid>
+
+</Window>

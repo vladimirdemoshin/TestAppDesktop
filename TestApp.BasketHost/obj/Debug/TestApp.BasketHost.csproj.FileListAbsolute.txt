@@ -1,0 +1,42 @@
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.BasketHost\bin\Debug\TestApp.BasketHost.exe.config
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.BasketHost\bin\Debug\TestApp.BasketHost.exe
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.BasketHost\bin\Debug\TestApp.BasketHost.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.BasketHost\bin\Debug\TestApp.Contract.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.BasketHost\bin\Debug\TestApp.Service.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.BasketHost\bin\Debug\TestApp.DataAccess.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.BasketHost\bin\Debug\System.Data.SQLite.dll
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.BasketHost\bin\Debug\TestApp.Contract.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.BasketHost\bin\Debug\TestApp.Service.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.BasketHost\bin\Debug\TestApp.DataAccess.pdb
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.BasketHost\bin\Debug\System.Data.SQLite.xml
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.BasketHost\obj\Debug\TestApp.BasketHost.csprojResolveAssemblyReference.cache
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.BasketHost\obj\Debug\TestApp.BasketHost.exe
+C:\Users\zzadmin\Documents\Visual Studio 2013\Projects\TestApp\TestApp.BasketHost\obj\Debug\TestApp.BasketHost.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.BasketHost\bin\Debug\TestApp.BasketHost.exe.config
+C:\Users\Vladimir\Desktop\TestApp\TestApp.BasketHost\bin\Debug\TestApp.BasketHost.exe
+C:\Users\Vladimir\Desktop\TestApp\TestApp.BasketHost\bin\Debug\TestApp.BasketHost.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.BasketHost\bin\Debug\TestApp.Contract.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.BasketHost\bin\Debug\TestApp.Service.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.BasketHost\bin\Debug\TestApp.DataAccess.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.BasketHost\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vladimir\Desktop\TestApp\TestApp.BasketHost\bin\Debug\TestApp.Contract.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.BasketHost\bin\Debug\TestApp.Service.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.BasketHost\bin\Debug\TestApp.DataAccess.pdb
+C:\Users\Vladimir\Desktop\TestApp\TestApp.BasketHost\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vladimir\Desktop\TestApp\TestApp.BasketHost\obj\Debug\TestApp.BasketHost.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\TestApp\TestApp.BasketHost\obj\Debug\TestApp.BasketHost.exe
+C:\Users\Vladimir\Desktop\TestApp\TestApp.BasketHost\obj\Debug\TestApp.BasketHost.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.BasketHost\bin\Debug\TestApp.BasketHost.exe.config
+C:\Users\zzadmin\Downloads\TestApp\TestApp.BasketHost\bin\Debug\TestApp.BasketHost.exe
+C:\Users\zzadmin\Downloads\TestApp\TestApp.BasketHost\bin\Debug\TestApp.BasketHost.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.BasketHost\bin\Debug\TestApp.Contract.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.BasketHost\bin\Debug\TestApp.Service.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.BasketHost\bin\Debug\TestApp.DataAccess.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.BasketHost\bin\Debug\System.Data.SQLite.dll
+C:\Users\zzadmin\Downloads\TestApp\TestApp.BasketHost\bin\Debug\TestApp.Contract.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.BasketHost\bin\Debug\TestApp.Service.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.BasketHost\bin\Debug\TestApp.DataAccess.pdb
+C:\Users\zzadmin\Downloads\TestApp\TestApp.BasketHost\bin\Debug\System.Data.SQLite.xml
+C:\Users\zzadmin\Downloads\TestApp\TestApp.BasketHost\obj\Debug\TestApp.BasketHost.csprojResolveAssemblyReference.cache
+C:\Users\zzadmin\Downloads\TestApp\TestApp.BasketHost\obj\Debug\TestApp.BasketHost.exe
+C:\Users\zzadmin\Downloads\TestApp\TestApp.BasketHost\obj\Debug\TestApp.BasketHost.pdb
